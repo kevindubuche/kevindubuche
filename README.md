@@ -1,4 +1,4 @@
-### Hi there 👋
+[![](https://raw.githubusercontent.com/kevindubuche/kevindubuche/main/chat.svg)](https://www.linkedin.com/in/kevin-dubuche-51a8281a2/)
 
 <!--
 **kevindubuche/kevindubuche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
